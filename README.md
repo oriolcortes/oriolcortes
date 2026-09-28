@@ -5,7 +5,7 @@ I build and maintain **web development projects and teaching resources**, with a
 ## What I work with
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS
-- **Backend:** Node.js, Express, Laravel, PHP
+- **Backend:** Node.js, TypeScript, Express, Laravel, PHP
 - **Data & services:** MongoDB, MySQL, Supabase
 - **Tooling:** Docker, pnpm, Vite, ESLint, GitHub
 
@@ -18,7 +18,7 @@ A web development learning hub built with Astro and Tailwind CSS, focused on che
 A real-time classroom quiz application built with Next.js, React, TypeScript, Tailwind CSS, and Supabase Realtime.
 
 ### [PetRescue Laravel](https://github.com/oriolcortes/petrescue-laravel)
-A Laravel reference project showing authentication, Blade views, policies, observers, validation, and Docker-based local development.
+A Laravel reference project with both a Blade web interface and a REST API, showing authentication, policies, observers, validation, and Docker-based local development.
 
 ### [Next + Express + MongoDB + Docker template](https://github.com/oriolcortes/template-next-express-mongo-docker)
 A reusable full-stack project template for Next.js, Express, MongoDB, and Docker.
